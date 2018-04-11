@@ -5,7 +5,6 @@
 <hr data-reactid="88">
 <p data-reactid="89">Install dependencies:</p>
 <pre data-reactid="90" class=" language-bash"><code class=" language-bash" data-reactid="91">npm <span class="token function">install</span></code></pre>
-<pre data-reactid="90" class=" language-bash"><code class=" language-bash" data-reactid="91">npm <span class="token function">install</span></code></pre>
 <p data-reactid="92"><!-- react-text: 93 -->Run examples at <!-- /react-text --><a href="http://localhost:9000/" target="_blank" data-reactid="94">http://localhost:8080/</a><!-- react-text: 95 --> with webpack dev server:<!-- /react-text --></p>
 <pre data-reactid="96" class=" language-bash"><code class=" language-bash" data-reactid="97">npm start</code></pre>
 
